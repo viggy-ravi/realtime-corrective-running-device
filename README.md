@@ -1,0 +1,2 @@
+# biodesign-running-form-device
+Worked in a group of five to create a corrective device for runners with imprecise form. The device recorded heel striking and hip-ankle angles to determine the runner’s form and would output sounds in real time to indicate incorrect form. The device is meant to be a preventive running injuries such as Patellofemoral Pain Syndrome (PTPS), Runner's Knee, and IT Band Syndrome. 
