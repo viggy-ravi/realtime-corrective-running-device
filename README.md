@@ -1,5 +1,5 @@
-# biodesign-running-form-device
- Seven Sensor Biodesign Project
+# realtime-corrective-running-device
+Biodesign Project
  Sarah Bi, Jessica Fritz, Vignesh Ravindranath, Aradhana Sridaran, Vikas Yerneni
 
  [Click here to see our project featured in the Daily Texas (campus newspaper)](https://thedailytexan.com/2019/10/28/biomedical-engineering-students-design-device-to-correct-running-form)!!  
